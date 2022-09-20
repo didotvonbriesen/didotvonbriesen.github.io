@@ -1,0 +1,33 @@
+/*
+https://coolors.co/231651-edeec0-136f63-84cae7-d8829d
+*/
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cornsilk;
+    background-color: royalblue;
+}
+
+header, footer
+{
+    text-align: center;
+}
+
+main
+{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+nav 
+{
+    font-size: 150%;    
+}
+
+a 
+{ 
+    text-decoration: none; 
+    color: orange; 
+}
+
+a:hover { color: red; }
